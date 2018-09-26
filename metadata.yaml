@@ -1,5 +1,8 @@
 _repo: Annals-and-Antiquities-of-Rajasthan-v-3-of-3-or-the-Central-and-Western-Rajput-States-of-Indi__57376
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57376-h/images/cover.jpg
 creator:
   author:
     agent_name: Tod, James
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '33412'
     url: http://www.gutenberg.org/2009/agents/33412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57376#Annals-and-Antiquities-of-Rajasthan-v-3-of-3-or-the-Central-and-Western-Rajput-States-of-Indi_
 gutenberg_issued: '2018-07-07'
 gutenberg_type: Text
 identifiers:
